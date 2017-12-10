@@ -2,9 +2,9 @@
 layout: default
 ---
 
-The *quick* brown fox, jumped **over** the lazy [dog](https://en.wikipedia.org/wiki/Dog).
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+The *quick* brown fox, jumped **over** the lazy [dog](https://en.wikipedia.org/wiki/Dog).
 
 [Link to another page](another-page).
 
