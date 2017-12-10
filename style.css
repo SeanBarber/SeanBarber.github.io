@@ -11,3 +11,8 @@ p{
 li{
     text-shadow: 2px 2px 3px purple;
 }
+
+span{
+    border: 1px solid black;
+    background-color: lime;
+}
