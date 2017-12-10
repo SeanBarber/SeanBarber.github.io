@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Headshot](headshot.jpg)
+<center>![Headshot](headshot.jpg) </center>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
