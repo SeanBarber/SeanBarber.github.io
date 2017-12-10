@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+![Headshot](Headshot)
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 The *quick* brown fox, jumped **over** the lazy [dog](https://en.wikipedia.org/wiki/Dog).
@@ -16,13 +16,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## [](##header-2)Header 2
+# [](#header-2)Header 2
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](###header-3)Header 3
+# [](#header-3)Header 3
 
 ```js
 // Javascript code with syntax highlighting.
