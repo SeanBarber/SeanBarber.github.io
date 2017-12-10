@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-<center>![Headshot](headshot.jpg) </center>
-
+<p align="center">
+![Headshot](headshot.jpg)
+</p>
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 The *quick* brown fox, jumped **over** the lazy [dog](https://en.wikipedia.org/wiki/Dog).
