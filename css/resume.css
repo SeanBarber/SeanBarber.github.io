@@ -8,7 +8,7 @@ body {
   padding-top: 54px;
   color: #868e96; }
 
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   body {
     padding-top: 0;
     padding-left: 17rem; } }
@@ -39,21 +39,21 @@ h2 {
 
 .list-social-icons a {
   color: #495057; }
-  .list-social-icons a:hover {
-    color: #BD5D38; }
+  .list-social-icons .list-inline-item-text a:hover {
+    color: #990000; }
   .list-social-icons a .fa-lg {
     font-size: 1.75rem; }
-
 .list-icons {
   font-size: 3rem; }
   .list-icons .list-inline-item i:hover {
-    color: #BD5D38; }
-
+    color: #990000; }
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
   text-transform: uppercase; }
-
-@media (min-width: 992px) {
+#C-icon:hover{
+    color: #990000;
+}
+@media (min-width: 768px) {
   #sideNav {
     text-align: center;
     position: fixed;
@@ -92,24 +92,24 @@ section.resume-section {
   section.resume-section .resume-item .resume-date {
     min-width: none; }
 
-@media (min-width: 768px) {
+@media (min-width:  540px) {
   section.resume-section {
     min-height: 100vh; }
     section.resume-section .resume-item .resume-date {
       min-width: 18rem; } }
 
-@media (min-width: 992px) {
+@media (min-width: 768px) {
   section.resume-section {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important; } }
 
 .bg-primary {
-  background-color: #1a1d9e !important; }
+  background-color: #495057 !important; }
 
 .text-primary {
-  color: #BD5D38 !important; }
+  color: #990000 !important; }
 
 a {
-  color: #BD5D38; }
+  color: #990000; }
   a:hover, a:focus, a:active {
-    color: #824027; }
+    color: #990000; }
